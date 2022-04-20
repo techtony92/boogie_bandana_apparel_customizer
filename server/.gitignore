@@ -1,0 +1,7 @@
+/node_modules
+
+/coverage
+/DATABASE_DATA
+.env
+
+Dockerfile
